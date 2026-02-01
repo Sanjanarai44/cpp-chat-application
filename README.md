@@ -44,14 +44,14 @@ Run Server
 Run Clients (in separate terminals)
 ./client
 
-📌 Learning Outcomes
+## Learning Outcomes
 
 Hands-on experience with socket programming
 Understanding of client-server models
 Practical use of multithreading and synchronization
 Real-time communication handling
 
-📈 Future Improvements
+## Future Improvements
 
 Username support
 Message timestamps
