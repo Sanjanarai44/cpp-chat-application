@@ -44,16 +44,4 @@ Run Server
 Run Clients (in separate terminals)
 ./client
 
-## Learning Outcomes
 
-Hands-on experience with socket programming
-Understanding of client-server models
-Practical use of multithreading and synchronization
-Real-time communication handling
-
-## Future Improvements
-
-Username support
-Message timestamps
-Graceful client disconnect handling
-GUI integration
